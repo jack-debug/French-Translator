@@ -2,7 +2,7 @@
 An on-the-fly french translator application.
 
 ### What does what?
-main.py takes French and outputs in English
+frtoen.py takes French and outputs in English
 
 tts.py takes French and outputs in English with Text To Speech
 
