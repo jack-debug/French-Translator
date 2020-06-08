@@ -1,7 +1,6 @@
 pyaudio
 google-cloud-speech
 google-cloud-storage
-googletrans
+translate
 six
-pyttsx3
 pywin32
