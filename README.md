@@ -19,5 +19,5 @@ entofrtts.py takes English and outputs in French with Text To Speech
 
 3b. On Windows, pyaudio may not install correctly. To fix, try `pip install pipwin` then `pipwin install pyaudio`.
 
-4. Run the command `python main.py` (main.py can be swapped with any other script in this repository)
+4. Run the command `python entofr.py` (entofr.py can be swapped with any other script in this repository)
 5. Enjoy :)
