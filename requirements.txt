@@ -3,3 +3,5 @@ google-cloud-speech
 google-cloud-storage
 googletrans
 six
+pyttsx3
+pywin32
