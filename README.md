@@ -4,8 +4,6 @@ An on-the-fly french translator application.
 ### What does what?
 frtoen.py takes French and outputs in English
 
-tts.py takes French and outputs in English with Text To Speech
-
 entofr.py takes English and outputs in French
 
 entofrtts.py takes English and outputs in French with Text To Speech
