@@ -6,7 +6,7 @@ frtoen.py takes French and outputs in English
 
 entofr.py takes English and outputs in French
 
-frtoenfile.py takes a file that has French speech and outputs in English.
+frtoenfile.py takes a file that has French speech and outputs in English. (Note: this file does not work yet)
 
 ## How to install?
 1. Run the command `git clone https://github.com/jack-debug/French-Translator.git` (if on Windows, use the software Git Bash to run this command)
