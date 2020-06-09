@@ -11,7 +11,7 @@ entofr.py takes English and outputs in French
 entofrtext.py takes English text input and outputs in French
 
 ## How to install?
-1. Run the command `git clone https://github.com/jack-debug/French-Translator.git` (if on Windows, use the software Git Bash to run this command)
+1. Run the command `git clone https://github.com/jack-debug/French-Translator.git` (if on Windows, use the software Git Bash to run this command) (DO NOT DOWNLOAD! YOU MUST CLONE FOR THE SCRIPTS TO WORK)
 2. Go to your terminal and try `cd French-Translator`
 3. Run the command `pip install -r requirements.txt `
 
