@@ -21,3 +21,5 @@ entofrtext.py takes English text input and outputs in French
 
 4. Run the command `python entofr.py` (entofr.py can be swapped with any other script in this repository)
 5. Enjoy :)
+
+Note: there is a file needed to run the program correctly, please message me on Discord (Untitled Goose#3236) for the file required.
